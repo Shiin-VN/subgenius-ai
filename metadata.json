@@ -1,0 +1,8 @@
+{
+  "name": "SubGenius AI",
+  "description": "An advanced AI-powered tool to extract subtitles (SRT) from video audio or hardcoded text, generate videos with Veo, and analyze images with Gemini Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
